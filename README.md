@@ -1,6 +1,6 @@
 # SimpleServer
 
-This uses 4.1.2 (Xcode 9.4.1)
+This uses Swift 4.1.2 (Xcode 9.4.1)
 
 Build with:
 
